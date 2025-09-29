@@ -1,0 +1,5 @@
+{
+  "name": "Chic Threads Fashion Assistant",
+  "description": "An intelligent fashion assistant for the 'Chic Threads' online store. This AI-powered chatbot helps customers with style advice, product information, availability, order tracking, and more, powered by Gemini.",
+  "requestFramePermissions": []
+}
